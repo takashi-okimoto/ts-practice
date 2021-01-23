@@ -24,3 +24,10 @@
 
 // const sum = sumProdactsPrice(100, 200, 300, 400, 500)
 // console.log('Function basic sample 5:', sum)
+
+// オブジェクトの型定義
+// import objectSample from './object/object'
+// import typeAliasSample from './object/alias'
+
+// objectSample()
+// typeAliasSample()
